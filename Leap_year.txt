@@ -1,0 +1,6 @@
+
+              >>> Leap Year Checker <<<
+
+User input a year and get output as this year is leap year or not.
+It's developed by Python only.
+
